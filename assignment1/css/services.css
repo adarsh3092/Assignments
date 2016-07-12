@@ -1,0 +1,152 @@
+header{
+background-color: #04CFC1;
+width: 500px;
+
+height: 70px;
+border-radius: 5px;
+position:fixed;
+top: 5px;
+left:295px;
+
+}
+
+ul li,a{
+display: inline;
+text-decoration: none;
+font-size: 22px;
+letter-spacing: 2;
+font-family:serif;
+padding: 12px;
+font-weight: bold;;;
+color:#EFEFEF;
+}
+nav{
+  margin-left: 20px;
+  margin-right: 20px;
+margin-top: 5px;
+margin-bottom: 5px;
+width: 50px;
+}
+nav li a:hover{
+background-color: #30A1B5;
+border-radius: 5px;
+b
+
+}
+
+
+.main{
+  height: 1000px;
+  margin-top:109px;
+}
+txt,txt1,txt2,txt3{
+  margin-left: 5px;
+}
+.grid_4 h3{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #333;
+  font-family: sans-serif;
+}
+.grid_4 span{
+  margin-top:10px;
+  font-family: sans-serif;
+  color:green;
+  font-size: 16px;
+
+}
+.grid_4 p{
+line-height: 1.6;
+color: #999;
+margin-top: 5px;
+font-family: sans-serif;
+
+}
+.grid_3{
+margin-top: 20px;
+  margin-left: 55px;
+  width: 286px;
+  padding: 0px 0px;
+  margin-bottom: 0px;
+}
+.div::after{
+  margin-top: 5px;
+}
+.grid_11 h2{
+  margin-top:  10px;
+  font-family: sans-serif;
+  color:#555;
+  text-align:center;
+  font-size: 25px;
+
+}
+.grid_11{
+      margin-left: 552px;
+}
+.grid_4 h4{
+  font-family: sans-serif;
+  color:#333;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-size:18px;
+  height: 30px;
+  padding-top: 5px;
+  line-height: 1.2;
+  background-color: #E8EFF0;
+    border-radius: 5px;
+}
+.grid_4 h5{
+line-height: 1.6;
+color: #555;
+margin-top: 5px;
+padding: 5px;
+background-color:#E8EFF0;
+border-radius: 5px;
+font-family: sans-serif;
+
+}
+
+footer{
+  background-color: #222;
+
+clear: both;
+ height: 100px;
+}
+.copyright{
+  float: left;
+  margin-left: 10px;
+  margin-top: 20px;
+  width: 340px;
+}
+.copyright-links{
+  margin-left: 10px;
+  width: 300px;
+  font-family: serif;
+  color: white;
+}
+.copyright p{
+  color: white;
+  font-family: serif;
+
+  margin: 0px 19px;
+  font-size: 15px;
+}
+.copyright-links a{
+margin-left: 0px;
+  color: white;
+  font-size: 15px;
+  font-family: serif;
+
+
+}
+footer ul li{
+display: inline;;
+}
+footer img{
+width: 48px;
+height: 48px;
+margin: 0px;
+float: right;
+}

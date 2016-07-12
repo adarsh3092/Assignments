@@ -1,0 +1,51 @@
+footer{
+
+background-color: #1c1b1b;
+  clear: both;
+  color: white;
+   position: relative;
+   z-index: 10;
+   height: 23%;
+
+   margin-top: -3em;
+
+}
+.col_half{
+  clear: both;
+margin-left: auto;
+position: absolute;;
+margin-top: 30px;
+margin-left: 127px;
+line-height: 36px;
+
+float: left;
+color:  rgba(255,255,255,.25);
+
+width: 30%;
+
+
+}
+.col_half .copyright-links a{
+  color:  rgba(255,255,255,.25);
+font-size: 16px;
+padding: 0px;
+line-height: 15px;
+margin-left: 0px;
+margin-right: 0px;
+
+}
+.col_half1{
+  color:  rgba(255,255,255,.25);
+  clear: both;
+margin-left: auto;
+position: absolute;;
+margin-top: 30px;
+margin-left: 1019px;
+float: left;
+width: 30%;
+
+
+}
+.icon-envelope2:before {
+    content: "\e6bf";
+}
