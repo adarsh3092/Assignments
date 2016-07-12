@@ -1,0 +1,112 @@
+nav,header{
+margin-left: 5px;
+margin-right: 5px;
+border-radius: 5px;
+margin-top: 5px;
+background-color: #171f36;
+}
+ul a{
+font-size: 22px;
+color: white;
+
+}
+.navbar{
+  background-color: #171f36;
+color: white;
+
+}
+.navbar-brand{
+
+  font-size: 25px;
+  color: #666;
+}
+#navbar-menu{
+
+  margin-left: 50px;
+
+}
+carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+      text-align: center;
+}
+.container{
+
+  margin-top: 60px;
+}
+h2{
+  text-align-last: center;
+    font-family: serif;
+}
+#features{
+
+  text-align: center;
+font-family:sans-serif;
+
+}
+#features p{
+  margin-top: 10px;
+  font-size: 16PX;
+}
+.panel-title{
+font-size: 19px;
+
+
+}
+
+.panel-heading{
+  font-weight: bold;
+  font-size: 18px;
+  color: #444;
+  text-align: center;
+}
+.well {
+margin-top: 10px;
+
+}
+.btn{
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 20px;
+}
+.panel{
+border-radius: 5px;
+border-color: #f5f5f5;
+
+}
+.panel-heading{
+  border-bottom-right-radius: 5px;
+  border-color: #f5f5f5;
+
+}
+.caption{
+margin-top: 10px;
+
+}
+footer{
+background-color: #171f36;
+color:white;
+font-size: 12px;
+border-radius: 5px;
+width: 99%;
+margin-left: 10px;
+margin-top: 10px;
+}
+#copyright,#contact{
+margin-top: 20px;
+text-align: center;
+}
+#more-know{
+  margin-top: 20px;
+}
+.about-us,.contact-us{
+list-style-type: none;}
+
+
+footer  ul li p{
+  font-size: 12px;
+  margin: 10px;
+  padding: 0px;
+  text-decoration: none;
+}
